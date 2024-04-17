@@ -51,17 +51,27 @@ If a team member fails to live up to this agreement, the situation may be report
 
 ## Team Signatures
 
-***Zeyad Almoaigel
-Rocky Hankin
-Salman Navroz
-Uliyaah Dionisio
-Addy Ngo
-Hoang Phan
-Alessio Yu
-Maxim Podgore
-Venkata Komma
-Jacqueline Huebner
-Sarah Paull***
+***Zeyad Almoaigel*** 
+
+*** Rocky Hankin*** 
+
+*** Salman Navroz*** 
+
+*** Uliyaah Dionisio*** 
+
+*** Addy Ngo*** 
+
+*** Hoang Phan*** 
+
+*** Alessio Yu*** 
+
+*** Maxim Podgore*** 
+
+*** Venkata Komma*** 
+
+*** Jacqueline Huebner*** 
+
+*** Sarah Paull***
 
 
 
