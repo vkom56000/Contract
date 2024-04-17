@@ -40,10 +40,10 @@ Team members will take turns sending out a reminder of the meeting with an agend
 
 ## Conflict Resolution
 - Strike 1: Bring it up in team meeting / Slack [^1]
-[^1]:Potentially re-assign the task to another team member
-
 - Strike 2: Leads talk to them privately and try to figure out what’s wrong
 - Strike 3: Talk to the TA about it
+
+  [^1]:Potentially re-assign the task to another team member
 
 ## Expectations of Faculty and GTA’s
 
@@ -53,25 +53,25 @@ If a team member fails to live up to this agreement, the situation may be report
 
 ***Zeyad Almoaigel*** 
 
-*** Rocky Hankin*** 
+***Rocky Hankin*** 
 
-*** Salman Navroz*** 
+***Salman Navroz*** 
 
-*** Uliyaah Dionisio*** 
+***Uliyaah Dionisio*** 
 
-*** Addy Ngo*** 
+***Addy Ngo*** 
 
-*** Hoang Phan*** 
+***Hoang Phan*** 
 
-*** Alessio Yu*** 
+***Alessio Yu*** 
 
-*** Maxim Podgore*** 
+***Maxim Podgore*** 
 
-*** Venkata Komma*** 
+***Venkata Komma*** 
 
-*** Jacqueline Huebner*** 
+***Jacqueline Huebner*** 
 
-*** Sarah Paull***
+***Sarah Paull***
 
 
 
