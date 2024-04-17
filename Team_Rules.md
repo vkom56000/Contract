@@ -41,8 +41,27 @@ Team members will take turns sending out a reminder of the meeting with an agend
 ## Conflict Resolution
 - Strike 1: Bring it up in team meeting / Slack [^1]
 [^1]:Potentially re-assign the task to another team member
+
 - Strike 2: Leads talk to them privately and try to figure out what’s wrong
 - Strike 3: Talk to the TA about it
+
+## Expectations of Faculty and GTA’s
+
+If a team member fails to live up to this agreement, the situation may be reported to the staff, but the team will still be responsible for submitting a completed assignment. Staff will be available to meet with teams to resolve issues.
+
+## Team Signatures
+
+***Zeyad Almoaigel
+Rocky Hankin
+Salman Navroz
+Uliyaah Dionisio
+Addy Ngo
+Hoang Phan
+Alessio Yu
+Maxim Podgore
+Venkata Komma
+Jacqueline Huebner
+Sarah Paull***
 
 
 
