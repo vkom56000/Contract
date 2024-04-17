@@ -4,3 +4,6 @@
 Group # 13
 Team name: Good Draw
 Instructor: Professor Powell
+
+| Addy Ngo | avn011@ucsd.edu | 408 718 4204 |
+
